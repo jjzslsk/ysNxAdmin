@@ -1,0 +1,20 @@
+.DS_Store
+.history
+.vscode
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+config/prod.env.js
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+config/prod.env.js
